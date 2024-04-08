@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookSyncWorkerService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff11207f6e8bedb7d94f8233275d153f4749e36e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookSyncWorkerService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookSyncWorkerService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
