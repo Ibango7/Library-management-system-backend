@@ -5035,14 +5035,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj",
       "projectName": "LmsBackend.Core",
-      "projectPath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj",
+      "projectPath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj",
       "packagesPath": "C:\\Users\\Boxfusion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\obj\\",
+      "outputPath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\NuGet.Config",
+        "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\NuGet.Config",
         "C:\\Users\\Boxfusion\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

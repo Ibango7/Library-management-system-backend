@@ -13,7 +13,7 @@ using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("AbpCompanyName-LmsBackend-56C2EF2F-ABD6-4EFC-AAF2-2E81C34E8FB1")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0+ff11207f6e8bedb7d94f8233275d153f4749e36e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0+841de2b6e19d7da28326f05ecb56e8af49993bbc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LmsBackend.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

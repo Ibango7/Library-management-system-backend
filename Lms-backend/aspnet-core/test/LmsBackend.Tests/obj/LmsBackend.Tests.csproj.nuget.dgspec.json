@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\test\\LmsBackend.Tests\\LmsBackend.Tests.csproj": {}
+    "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\test\\LmsBackend.Tests\\LmsBackend.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Application\\LmsBackend.Application.csproj": {
+    "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Application\\LmsBackend.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Application\\LmsBackend.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Application\\LmsBackend.Application.csproj",
         "projectName": "LmsBackend.Application",
-        "projectPath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Application\\LmsBackend.Application.csproj",
+        "projectPath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Application\\LmsBackend.Application.csproj",
         "packagesPath": "C:\\Users\\Boxfusion\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Application\\obj\\",
+        "outputPath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\NuGet.Config",
           "C:\\Users\\Boxfusion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,8 +30,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj": {
-                "projectPath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj"
+              "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj": {
+                "projectPath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj"
               }
             }
           }
@@ -74,17 +74,17 @@
         }
       }
     },
-    "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj": {
+    "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj",
         "projectName": "LmsBackend.Core",
-        "projectPath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj",
+        "projectPath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj",
         "packagesPath": "C:\\Users\\Boxfusion\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\obj\\",
+        "outputPath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\NuGet.Config",
           "C:\\Users\\Boxfusion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -146,17 +146,17 @@
         }
       }
     },
-    "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.EntityFrameworkCore\\LmsBackend.EntityFrameworkCore.csproj": {
+    "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.EntityFrameworkCore\\LmsBackend.EntityFrameworkCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.EntityFrameworkCore\\LmsBackend.EntityFrameworkCore.csproj",
+        "projectUniqueName": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.EntityFrameworkCore\\LmsBackend.EntityFrameworkCore.csproj",
         "projectName": "LmsBackend.EntityFrameworkCore",
-        "projectPath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.EntityFrameworkCore\\LmsBackend.EntityFrameworkCore.csproj",
+        "projectPath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.EntityFrameworkCore\\LmsBackend.EntityFrameworkCore.csproj",
         "packagesPath": "C:\\Users\\Boxfusion\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.EntityFrameworkCore\\obj\\",
+        "outputPath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.EntityFrameworkCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\NuGet.Config",
           "C:\\Users\\Boxfusion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -172,8 +172,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj": {
-                "projectPath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj"
+              "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj": {
+                "projectPath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Core\\LmsBackend.Core.csproj"
               }
             }
           }
@@ -226,17 +226,17 @@
         }
       }
     },
-    "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\test\\LmsBackend.Tests\\LmsBackend.Tests.csproj": {
+    "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\test\\LmsBackend.Tests\\LmsBackend.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\test\\LmsBackend.Tests\\LmsBackend.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\test\\LmsBackend.Tests\\LmsBackend.Tests.csproj",
         "projectName": "LmsBackend.Tests",
-        "projectPath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\test\\LmsBackend.Tests\\LmsBackend.Tests.csproj",
+        "projectPath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\test\\LmsBackend.Tests\\LmsBackend.Tests.csproj",
         "packagesPath": "C:\\Users\\Boxfusion\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\test\\LmsBackend.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\test\\LmsBackend.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\NuGet.Config",
           "C:\\Users\\Boxfusion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -252,11 +252,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Application\\LmsBackend.Application.csproj": {
-                "projectPath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Application\\LmsBackend.Application.csproj"
+              "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Application\\LmsBackend.Application.csproj": {
+                "projectPath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Application\\LmsBackend.Application.csproj"
               },
-              "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.EntityFrameworkCore\\LmsBackend.EntityFrameworkCore.csproj": {
-                "projectPath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.EntityFrameworkCore\\LmsBackend.EntityFrameworkCore.csproj"
+              "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.EntityFrameworkCore\\LmsBackend.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.EntityFrameworkCore\\LmsBackend.EntityFrameworkCore.csproj"
               }
             }
           }

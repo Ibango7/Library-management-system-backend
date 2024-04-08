@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fELftodcuPSw97N4szXO4bM83hCXWrRKNnzvECrccSsW0DlzlxyGlXGXgmD7bASSv4lMM9aWMmAm/+fi8RbAcA==",
+  "dgSpecHash": "ESOB8XebLMy00NUgskstCuOUMrf3Gl5on50Uh24tpS/Aqeh5yoLUENrRptklss1AJ6e8iN2Od9tq9WwsHcBedA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Core\\LmsBackend.Web.Core.csproj",
+  "projectFilePath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Core\\LmsBackend.Web.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Boxfusion\\.nuget\\packages\\abp\\9.1.0\\abp.9.1.0.nupkg.sha512",
     "C:\\Users\\Boxfusion\\.nuget\\packages\\abp.aspnetcore\\9.1.0\\abp.aspnetcore.9.1.0.nupkg.sha512",

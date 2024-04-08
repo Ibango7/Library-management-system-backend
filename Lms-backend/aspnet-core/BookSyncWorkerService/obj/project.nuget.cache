@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vkkikxHqOpjZL/zJc5mufstE350yhD9pPutpbVecztSMwcSJwoJ7KnFJv5XbfPwNJrsjXPB57XmxsClvLgNqHQ==",
+  "dgSpecHash": "/KcQ1N7wlbOiz4yA0CDlwulpAct9iOFnLThgbbNIE3p22dOrjaXrz8MnXADhrdfdQtaMUlMRWB2IE0KL1jKR3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\BookSyncWorkerService\\BookSyncWorkerService.csproj",
+  "projectFilePath": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\BookSyncWorkerService\\BookSyncWorkerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Boxfusion\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Boxfusion\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

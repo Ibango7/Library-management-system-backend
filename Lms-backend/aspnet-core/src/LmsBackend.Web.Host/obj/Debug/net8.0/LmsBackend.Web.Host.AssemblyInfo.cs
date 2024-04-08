@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LmsBackend.Web.Host")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff11207f6e8bedb7d94f8233275d153f4749e36e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+841de2b6e19d7da28326f05ecb56e8af49993bbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("LmsBackend.Web.Host")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LmsBackend.Web.Host")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
