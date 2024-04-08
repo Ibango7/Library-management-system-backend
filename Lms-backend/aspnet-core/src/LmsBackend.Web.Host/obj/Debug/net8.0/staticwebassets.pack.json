@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\swagger\\ui\\abp.js",
+      "PackagePath": "staticwebassets\\swagger\\ui\\abp.js"
+    },
+    {
+      "Id": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\swagger\\ui\\abp.swagger.js",
+      "PackagePath": "staticwebassets\\swagger\\ui\\abp.swagger.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LmsBackend.Web.Host.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LmsBackend.Web.Host.props",
+      "PackagePath": "build\\LmsBackend.Web.Host.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LmsBackend.Web.Host.props",
+      "PackagePath": "buildMultiTargeting\\LmsBackend.Web.Host.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LmsBackend.Web.Host.props",
+      "PackagePath": "buildTransitive\\LmsBackend.Web.Host.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
