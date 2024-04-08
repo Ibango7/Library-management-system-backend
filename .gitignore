@@ -2,5 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/.vs/Library-management-system-backend/FileContentIndex/1b0cb7ce-8c1f-42cd-9cca-ad729809c58f.vsidx
 /.vs/Library-management-system-backend/FileContentIndex
 /Lms-backend/aspnet-core/.vs/LmsBackend/FileContentIndex
