@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0+841de2b6e19d7da28326f05ecb56e8af49993bbc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0+fb5c8cf83593f447eecdab7cf9295ed33dea4581")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LmsBackend.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

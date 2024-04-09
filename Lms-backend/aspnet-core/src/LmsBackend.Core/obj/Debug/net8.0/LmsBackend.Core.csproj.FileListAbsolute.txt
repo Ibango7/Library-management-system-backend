@@ -10,3 +10,16 @@ C:\Users\Boxfusion\Documents\Lms-backend\aspnet-core\src\LmsBackend.Core\obj\Deb
 C:\Users\Boxfusion\Documents\Lms-backend\aspnet-core\src\LmsBackend.Core\obj\Debug\net8.0\refint\LmsBackend.Core.dll
 C:\Users\Boxfusion\Documents\Lms-backend\aspnet-core\src\LmsBackend.Core\obj\Debug\net8.0\LmsBackend.Core.pdb
 C:\Users\Boxfusion\Documents\Lms-backend\aspnet-core\src\LmsBackend.Core\obj\Debug\net8.0\ref\LmsBackend.Core.dll
+C:\Users\Boxfusion\source\repos\Ibango7\Library-management-system-backend\Lms-backend\aspnet-core\src\LmsBackend.Core\bin\Debug\net8.0\LmsBackend.Core.deps.json
+C:\Users\Boxfusion\Source\Repos\Ibango7\Library-management-system-backend\Lms-backend\aspnet-core\src\LmsBackend.Core\bin\Debug\net8.0\LmsBackend.Core.dll
+C:\Users\Boxfusion\Source\Repos\Ibango7\Library-management-system-backend\Lms-backend\aspnet-core\src\LmsBackend.Core\bin\Debug\net8.0\LmsBackend.Core.pdb
+C:\Users\Boxfusion\Source\Repos\Ibango7\Library-management-system-backend\Lms-backend\aspnet-core\src\LmsBackend.Core\obj\Debug\net8.0\LmsBackend.Core.csproj.AssemblyReference.cache
+C:\Users\Boxfusion\Source\Repos\Ibango7\Library-management-system-backend\Lms-backend\aspnet-core\src\LmsBackend.Core\obj\Debug\net8.0\LmsBackend.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boxfusion\Source\Repos\Ibango7\Library-management-system-backend\Lms-backend\aspnet-core\src\LmsBackend.Core\obj\Debug\net8.0\LmsBackend.Core.AssemblyInfoInputs.cache
+C:\Users\Boxfusion\Source\Repos\Ibango7\Library-management-system-backend\Lms-backend\aspnet-core\src\LmsBackend.Core\obj\Debug\net8.0\LmsBackend.Core.AssemblyInfo.cs
+C:\Users\Boxfusion\Source\Repos\Ibango7\Library-management-system-backend\Lms-backend\aspnet-core\src\LmsBackend.Core\obj\Debug\net8.0\LmsBackend.Core.csproj.CoreCompileInputs.cache
+C:\Users\Boxfusion\Source\Repos\Ibango7\Library-management-system-backend\Lms-backend\aspnet-core\src\LmsBackend.Core\obj\Debug\net8.0\LmsBackend.Core.sourcelink.json
+C:\Users\Boxfusion\Source\Repos\Ibango7\Library-management-system-backend\Lms-backend\aspnet-core\src\LmsBackend.Core\obj\Debug\net8.0\LmsBackend.Core.dll
+C:\Users\Boxfusion\Source\Repos\Ibango7\Library-management-system-backend\Lms-backend\aspnet-core\src\LmsBackend.Core\obj\Debug\net8.0\refint\LmsBackend.Core.dll
+C:\Users\Boxfusion\Source\Repos\Ibango7\Library-management-system-backend\Lms-backend\aspnet-core\src\LmsBackend.Core\obj\Debug\net8.0\LmsBackend.Core.pdb
+C:\Users\Boxfusion\source\repos\Ibango7\Library-management-system-backend\Lms-backend\aspnet-core\src\LmsBackend.Core\obj\Debug\net8.0\ref\LmsBackend.Core.dll

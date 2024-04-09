@@ -311,12 +311,37 @@
             <summary>
             
             </summary>
+            
         </member>
-        <member name="M:LmsBackend.Services.BookManagerService.BookManagerAppService.#ctor(Abp.Domain.Repositories.IRepository{LmsBackend.Entities.BookManagement,System.Guid})">
+        <member name="M:LmsBackend.Services.BookManagerService.BookManagerAppService.#ctor(Abp.Domain.Repositories.IRepository{LmsBackend.Entities.BookManagement,System.Guid},Abp.Domain.Repositories.IRepository{LmsBackend.Authorization.Users.User,System.Int64},LmsBackend.Services.BooksService.BookAppService)">
             <summary>
             
             </summary>
             <param name="repository"></param>
+            <param name="userRepository"></param>
+            <param name="bookAppService"></param>
+        </member>
+        <member name="M:LmsBackend.Services.BookManagerService.BookManagerAppService.isRented(System.Guid,System.Int64)">
+            <summary>
+            
+            </summary>
+            <param name="bookId"></param>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LmsBackend.Services.BookManagerService.BookManagerAppService.RentBook(System.Guid,System.Int64)">
+            <summary>
+            
+            </summary>
+            <param name="bookId"></param>
+            <param name="userId"></param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+        <member name="T:LmsBackend.Services.BookManagerService.Dto.RentedBookDto">
+            <summary>
+            
+            </summary>
         </member>
         <member name="T:LmsBackend.Services.BooksService.BookAppService">
             <summary>
@@ -336,6 +361,58 @@
             <param name="isbn"></param>
             <returns></returns>
         </member>
+        <member name="M:LmsBackend.Services.BooksService.BookAppService.GetBooksByGenre(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="genre"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LmsBackend.Services.BooksService.BookAppService.GetBookQuantity(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="bookId"></param>
+            <returns></returns>
+            <exception cref="T:Abp.Domain.Entities.EntityNotFoundException"></exception>
+        </member>
+        <member name="M:LmsBackend.Services.BooksService.BookAppService.AdjustBookQuantity(System.Guid,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="bookId"></param>
+            <param name="isIncrement"></param>
+            <returns></returns>
+            <exception cref="T:Abp.Domain.Entities.EntityNotFoundException"></exception>
+        </member>
+        <member name="M:LmsBackend.Services.BooksService.BookAppService.GetBookById(System.Guid)">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+            <exception cref="T:Abp.AbpException"></exception>
+        </member>
+        <member name="M:LmsBackend.Services.BooksService.BookAppService.GetAllBooks">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LmsBackend.Services.BooksService.BookAppService.SearchBooks(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="title"></param>
+            <param name="author"></param>
+            <returns></returns>
+            <exception cref="T:Abp.UI.UserFriendlyException"></exception>
+        </member>
+        <member name="M:LmsBackend.Services.BooksService.BookAppService.GetTrends">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
         <member name="T:LmsBackend.Services.WaitListService.WaitListAppService">
             <summary>
             
@@ -346,6 +423,15 @@
             
             </summary>
             <param name="repository"></param>
+        </member>
+        <member name="M:LmsBackend.Users.UserAppService.GetUserByIdAsync(System.Int64)">
+            <summary>
+            
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+            <exception cref="T:Abp.AbpException"></exception>
+            
         </member>
     </members>
 </doc>

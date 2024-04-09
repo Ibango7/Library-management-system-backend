@@ -1,11 +1,11 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\swagger\\ui\\abp.js",
+      "Id": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\swagger\\ui\\abp.js",
       "PackagePath": "staticwebassets\\swagger\\ui\\abp.js"
     },
     {
-      "Id": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\swagger\\ui\\abp.swagger.js",
+      "Id": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\swagger\\ui\\abp.swagger.js",
       "PackagePath": "staticwebassets\\swagger\\ui\\abp.swagger.js"
     },
     {

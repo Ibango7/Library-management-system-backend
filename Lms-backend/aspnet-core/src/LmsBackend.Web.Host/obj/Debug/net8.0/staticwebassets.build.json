@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nEXzMaMSbphXFah+5DWVKiZDF/wrgN2U1lYSdAEoLkg=",
+  "Hash": "VPRJalQwcDh3+cyBHIYqBGkDQYHtvKZo3oCVgsO8ou0=",
   "Source": "LmsBackend.Web.Host",
   "BasePath": "_content/LmsBackend.Web.Host",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LmsBackend.Web.Host\\wwwroot",
       "Source": "LmsBackend.Web.Host",
-      "ContentRoot": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\",
       "BasePath": "_content/LmsBackend.Web.Host",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\swagger\\ui\\abp.js",
+      "Identity": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\swagger\\ui\\abp.js",
       "SourceId": "LmsBackend.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\",
       "BasePath": "_content/LmsBackend.Web.Host",
       "RelativePath": "swagger/ui/abp.js",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\swagger\\ui\\abp.js"
     },
     {
-      "Identity": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\swagger\\ui\\abp.swagger.js",
+      "Identity": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\swagger\\ui\\abp.swagger.js",
       "SourceId": "LmsBackend.Web.Host",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Boxfusion\\Documents\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Boxfusion\\Source\\Repos\\Ibango7\\Library-management-system-backend\\Lms-backend\\aspnet-core\\src\\LmsBackend.Web.Host\\wwwroot\\",
       "BasePath": "_content/LmsBackend.Web.Host",
       "RelativePath": "swagger/ui/abp.swagger.js",
       "AssetKind": "All",

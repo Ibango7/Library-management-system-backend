@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Lms-backend",
+    "\\Lms-backend\\aspnet-core"
   ],
+  "SelectedNode": "\\Lms-backend\\aspnet-core\\LmsBackend.sln",
   "PreviewInSolutionExplorer": false
 }
